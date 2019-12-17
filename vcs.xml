@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/AlexanderSprns/filmLibrary.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/slm/Video-Catcher-for-Android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\Google Backup" />
