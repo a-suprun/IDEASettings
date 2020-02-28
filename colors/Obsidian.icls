@@ -508,6 +508,11 @@
         <option name="FOREGROUND" value="7d8c93" />
       </value>
     </option>
+    <option name="LOG_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="4841ee" />
+      </value>
+    </option>
     <option name="LOG_WARNING_OUTPUT">
       <value>
         <option name="FOREGROUND" value="e0e2e4" />
@@ -548,7 +553,7 @@
     </option>
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="8c0ea3" />
+        <option name="FOREGROUND" value="683bbf" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
