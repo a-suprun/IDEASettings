@@ -498,6 +498,11 @@
         <option name="FOREGROUND" value="678cb1" />
       </value>
     </option>
+    <option name="JAVA_DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="2aa827" />
+      </value>
+    </option>
     <option name="LOGCAT_ASSERT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ba68c8" />
