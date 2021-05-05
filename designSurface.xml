@@ -6,7 +6,9 @@
         <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/layout/fragment_my_initiatives.xml" value="0.253125" />
         <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/layout/item_initiative_map.xml" value="0.253125" />
         <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/layout/item_page_layout.xml" value="0.253125" />
+        <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/layout/item_rv_initiative.xml" value="0.253125" />
         <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/layout/item_subscription.xml" value="0.253125" />
+        <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/layout/item_subscription_add.xml" value="0.253125" />
       </map>
     </option>
   </component>
