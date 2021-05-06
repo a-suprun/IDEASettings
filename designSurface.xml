@@ -2,6 +2,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/drawable/ic_chevron_right.xml" value="0.2682291666666667" />
+        <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/drawable/ic_close_circle.xml" value="0.2682291666666667" />
+        <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/drawable/ic_executor.xml" value="0.2682291666666667" />
+        <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/drawable/ic_executor_group.xml" value="0.2682291666666667" />
+        <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/drawable/ic_handsnake.xml" value="0.2682291666666667" />
+        <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/drawable/ic_info.xml" value="0.2682291666666667" />
+        <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/drawable/ic_menu.xml" value="0.2682291666666667" />
         <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/layout/fragment_initiative_edit.xml" value="0.151268115942029" />
         <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/layout/fragment_my_initiatives.xml" value="0.253125" />
         <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/layout/fragment_profile.xml" value="0.253125" />
