@@ -20,7 +20,9 @@
         <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2682291666666667" />
         <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/drawable/ic_map_marker.xml" value="0.2682291666666667" />
         <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/drawable/ic_map_marker_48dp.xml" value="0.2682291666666667" />
+        <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/drawable/ic_map_marker_v2.xml" value="0.2682291666666667" />
         <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/drawable/ic_menu.xml" value="0.2682291666666667" />
+        <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/drawable/ic_tutoring3.xml" value="0.2682291666666667" />
         <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/layout/fragment_initiative_edit.xml" value="0.151268115942029" />
         <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/layout/fragment_my_initiatives.xml" value="0.253125" />
         <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/layout/fragment_profile.xml" value="0.253125" />
@@ -30,6 +32,7 @@
         <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/layout/item_subscription.xml" value="0.253125" />
         <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/layout/item_subscription_add.xml" value="0.253125" />
         <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/layout/item_view_pager_container.xml" value="0.253125" />
+        <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2682291666666667" />
         <entry key="..\:/AndroidProjects/LocationTrackingApp/app/src/main/res/layout/fragment_registration.xml" value="0.1" />
         <entry key="..\:/AndroidProjects/LocationTrackingApp/app/src/main/res/layout/fragment_settings_account.xml" value="0.253125" />
         <entry key="..\:/AndroidProjects/LocationTrackingApp/app/src/main/res/layout/nav_header.xml" value="0.253125" />
