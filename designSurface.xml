@@ -24,6 +24,8 @@
         <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/drawable/ic_map_marker_v2.xml" value="0.2682291666666667" />
         <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/drawable/ic_menu.xml" value="0.2682291666666667" />
         <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/drawable/ic_tutoring3.xml" value="0.2682291666666667" />
+        <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/layout/fragment_category_filter.xml" value="0.253125" />
+        <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/layout/fragment_category_type_filter.xml" value="0.253125" />
         <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/layout/fragment_initiative_current.xml" value="0.253125" />
         <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/layout/fragment_initiative_edit.xml" value="0.253125" />
         <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/layout/fragment_my_initiatives.xml" value="0.253125" />
