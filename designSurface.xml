@@ -10,6 +10,8 @@
         <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/drawable/ic_category_photo_and_video.xml" value="0.2682291666666667" />
         <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/drawable/ic_category_repair_and_construction.xml" value="0.2682291666666667" />
         <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/drawable/ic_category_tutoring_and_training.xml" value="0.2682291666666667" />
+        <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/drawable/ic_check.xml" value="0.2682291666666667" />
+        <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/drawable/ic_check_black.xml" value="0.2682291666666667" />
         <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/drawable/ic_chevron_right.xml" value="0.2682291666666667" />
         <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/drawable/ic_close_circle.xml" value="0.2682291666666667" />
         <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/drawable/ic_executor.xml" value="0.2682291666666667" />
@@ -23,6 +25,7 @@
         <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/drawable/ic_map_marker_48dp.xml" value="0.2682291666666667" />
         <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/drawable/ic_map_marker_v2.xml" value="0.2682291666666667" />
         <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/drawable/ic_menu.xml" value="0.2682291666666667" />
+        <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/drawable/ic_plus.xml" value="0.2682291666666667" />
         <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/drawable/ic_tutoring3.xml" value="0.2682291666666667" />
         <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/drawable/splash_screen.xml" value="0.2682291666666667" />
         <entry key="..\:/AndroidProjects/Gooddeed/app/src/main/res/layout/fragment_category_filter.xml" value="0.253125" />
