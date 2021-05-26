@@ -49,6 +49,8 @@
         <entry key="..\:/AndroidProjects/LocationTrackingApp/app/src/main/res/layout/fragment_registration.xml" value="0.1" />
         <entry key="..\:/AndroidProjects/LocationTrackingApp/app/src/main/res/layout/fragment_settings_account.xml" value="0.253125" />
         <entry key="..\:/AndroidProjects/LocationTrackingApp/app/src/main/res/layout/nav_header.xml" value="0.253125" />
+        <entry key="app/src/main/res/drawable-night/logo_dark.xml" value="0.37916666666666665" />
+        <entry key="app/src/main/res/drawable-night/logo_light.xml" value="0.37916666666666665" />
         <entry key="app/src/main/res/drawable/logo_dark.xml" value="0.37916666666666665" />
         <entry key="app/src/main/res/drawable/logo_light.xml" value="0.37916666666666665" />
         <entry key="app/src/main/res/drawable/rounded_corners_button.xml" value="0.37916666666666665" />
