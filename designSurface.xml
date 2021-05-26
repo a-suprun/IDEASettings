@@ -54,6 +54,8 @@
         <entry key="app/src/main/res/drawable/logo_dark.xml" value="0.37916666666666665" />
         <entry key="app/src/main/res/drawable/logo_light.xml" value="0.37916666666666665" />
         <entry key="app/src/main/res/drawable/rounded_corners_button.xml" value="0.37916666666666665" />
+        <entry key="app/src/main/res/drawable/safety.xml" value="0.37916666666666665" />
+        <entry key="app/src/main/res/drawable/sales.xml" value="0.37916666666666665" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.3328804347826087" />
         <entry key="app/src/main/res/layout/fragment_login.xml" value="0.3640625" />
       </map>
