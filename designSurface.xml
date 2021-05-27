@@ -60,6 +60,7 @@
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.3640625" />
         <entry key="app/src/main/res/layout/fragment_login.xml" value="0.3640625" />
         <entry key="app/src/main/res/layout/fragment_support.xml" value="0.3640625" />
+        <entry key="app/src/main/res/layout/item_sessions.xml" value="0.3640625" />
         <entry key="app/src/main/res/layout/subfragment_forums.xml" value="0.3640625" />
         <entry key="app/src/main/res/layout/subfragment_messages.xml" value="0.3640625" />
         <entry key="app/src/main/res/layout/subfragment_sessions.xml" value="0.3640625" />
