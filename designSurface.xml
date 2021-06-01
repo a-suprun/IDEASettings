@@ -58,6 +58,7 @@
         <entry key="app/src/main/res/drawable/safety.xml" value="0.37916666666666665" />
         <entry key="app/src/main/res/drawable/sales.xml" value="0.37916666666666665" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.3640625" />
+        <entry key="app/src/main/res/layout/content_main.xml" value="0.18229166666666666" />
         <entry key="app/src/main/res/layout/fragment_login.xml" value="0.3640625" />
         <entry key="app/src/main/res/layout/fragment_support.xml" value="0.3640625" />
         <entry key="app/src/main/res/layout/item_sessions.xml" value="0.3640625" />
