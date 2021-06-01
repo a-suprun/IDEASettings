@@ -52,11 +52,14 @@
         <entry key="app/src/main/res/drawable-night/logo_dark.xml" value="0.37916666666666665" />
         <entry key="app/src/main/res/drawable-night/logo_light.xml" value="0.37916666666666665" />
         <entry key="app/src/main/res/drawable/dashed_line.xml" value="2.0" />
+        <entry key="app/src/main/res/drawable/fingerprint.xml" value="0.378125" />
         <entry key="app/src/main/res/drawable/logo_dark.xml" value="0.37916666666666665" />
         <entry key="app/src/main/res/drawable/logo_light.xml" value="0.37916666666666665" />
         <entry key="app/src/main/res/drawable/rounded_corners_button.xml" value="0.37916666666666665" />
         <entry key="app/src/main/res/drawable/safety.xml" value="0.37916666666666665" />
         <entry key="app/src/main/res/drawable/sales.xml" value="0.37916666666666665" />
+        <entry key="app/src/main/res/drawable/splash_screen.xml" value="0.378125" />
+        <entry key="app/src/main/res/drawable/trackensure_logo_horizontal.xml" value="0.378125" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.3640625" />
         <entry key="app/src/main/res/layout/content_main.xml" value="0.18229166666666666" />
         <entry key="app/src/main/res/layout/fragment_login.xml" value="0.3640625" />
