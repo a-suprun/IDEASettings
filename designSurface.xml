@@ -53,8 +53,11 @@
         <entry key="app/src/main/res/drawable-night/logo_light.xml" value="0.37916666666666665" />
         <entry key="app/src/main/res/drawable/dashed_line.xml" value="2.0" />
         <entry key="app/src/main/res/drawable/fingerprint.xml" value="0.378125" />
+        <entry key="app/src/main/res/drawable/ic_log_out.xml" value="0.378125" />
+        <entry key="app/src/main/res/drawable/link.xml" value="0.378125" />
         <entry key="app/src/main/res/drawable/logo_dark.xml" value="0.37916666666666665" />
         <entry key="app/src/main/res/drawable/logo_light.xml" value="0.37916666666666665" />
+        <entry key="app/src/main/res/drawable/mainlogo.xml" value="0.378125" />
         <entry key="app/src/main/res/drawable/rounded_corners_button.xml" value="0.37916666666666665" />
         <entry key="app/src/main/res/drawable/safety.xml" value="0.37916666666666665" />
         <entry key="app/src/main/res/drawable/sales.xml" value="0.37916666666666665" />
