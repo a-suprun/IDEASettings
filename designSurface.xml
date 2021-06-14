@@ -67,7 +67,7 @@
         <entry key="app/src/main/res/drawable/splash_screen.xml" value="0.378125" />
         <entry key="app/src/main/res/drawable/trackensure_logo_horizontal.xml" value="0.378125" />
         <entry key="app/src/main/res/layout-land/fragment_edit_driver_availability.xml" value="0.44114583333333335" />
-        <entry key="app/src/main/res/layout-land/fragment_support.xml" value="0.28020833333333334" />
+        <entry key="app/src/main/res/layout-land/fragment_support.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.3640625" />
         <entry key="app/src/main/res/layout/app_bar_main.xml" value="0.35989583333333336" />
         <entry key="app/src/main/res/layout/content_main.xml" value="0.35989583333333336" />
