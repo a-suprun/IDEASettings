@@ -26,6 +26,17 @@
     </option>
     <option name="cloneParentDir" value="E:\AndroidProjects" />
   </component>
+  <component name="HgRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://64.191.45.114:8000/hg/TEDriver/" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="$USER_HOME$/StudioProjects" />
+  </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
       <list>
