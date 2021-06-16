@@ -76,6 +76,9 @@
         <entry key="app/src/main/res/layout-land/fragment_trailer_location.xml" value="0.4317708333333333" />
         <entry key="app/src/main/res/layout-land/subfragment_contacts.xml" value="0.4270833333333333" />
         <entry key="app/src/main/res/layout-land/subfragment_sessions.xml" value="0.4270833333333333" />
+        <entry key="app/src/main/res/layout-sw600dp-land/fragment_login.xml" value="0.1953125" />
+        <entry key="app/src/main/res/layout-sw600dp-land/fragment_screen_status.xml" value="0.28984375" />
+        <entry key="app/src/main/res/layout-sw600dp-land/fragment_support.xml" value="0.20833333333333334" />
         <entry key="app/src/main/res/layout-sw600dp/custom_view_duty_cycles.xml" value="0.6283333333333333" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.3640625" />
         <entry key="app/src/main/res/layout/app_bar_main.xml" value="0.35989583333333336" />
