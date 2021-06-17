@@ -118,6 +118,7 @@
         <entry key="app/src/main/res/menu/menu_search.xml" value="0.2755208333333333" />
         <entry key="app/src/main/res/menu/menu_search_and_add_for_messages.xml" value="0.35989583333333336" />
         <entry key="app/src/main/res/menu/messages_toolbar_menu.xml" value="0.35989583333333336" />
+        <entry key="libs/rtc/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.375" />
       </map>
     </option>
   </component>
