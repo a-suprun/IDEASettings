@@ -1,5 +1,6 @@
 <application>
   <component name="HgGlobalSettings">
+    <option name="myHgExecutable" value="D:\TortoiseHg\hg.exe" />
     <option name="myRememberedUserNames">
       <map>
         <entry key="64.191.45.114:8000/hg/TEDriver/" value="suprun" />
