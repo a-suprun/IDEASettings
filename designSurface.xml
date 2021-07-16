@@ -96,6 +96,9 @@
         <entry key="app/src/main/res/drawable/mainlogo.xml" value="0.378125" />
         <entry key="app/src/main/res/drawable/rounded_corners_btn_white_green_border.xml" value="0.215625" />
         <entry key="app/src/main/res/drawable/rounded_corners_button.xml" value="0.37916666666666665" />
+        <entry key="app/src/main/res/drawable/rounded_corners_button_blue.xml" value="0.3697916666666667" />
+        <entry key="app/src/main/res/drawable/rounded_grey.xml" value="0.3697916666666667" />
+        <entry key="app/src/main/res/drawable/rounded_message_right.xml" value="0.3697916666666667" />
         <entry key="app/src/main/res/drawable/rounded_rectangle_blue.xml" value="0.3697916666666667" />
         <entry key="app/src/main/res/drawable/rounded_rectangle_green.xml" value="0.3697916666666667" />
         <entry key="app/src/main/res/drawable/rounded_view.xml" value="0.3697916666666667" />
