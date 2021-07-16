@@ -59,14 +59,46 @@
         <entry key="app/src/main/res/drawable/dotted.xml" value="0.375" />
         <entry key="app/src/main/res/drawable/drawer_list_selector.xml" value="0.375" />
         <entry key="app/src/main/res/drawable/fingerprint.xml" value="0.378125" />
+        <entry key="app/src/main/res/drawable/ic_archive.xml" value="0.3697916666666667" />
+        <entry key="app/src/main/res/drawable/ic_archive_button.xml" value="0.3697916666666667" />
+        <entry key="app/src/main/res/drawable/ic_arrow_down.xml" value="0.3697916666666667" />
+        <entry key="app/src/main/res/drawable/ic_arrow_drop_down.xml" value="0.3697916666666667" />
+        <entry key="app/src/main/res/drawable/ic_arrow_up.xml" value="0.3697916666666667" />
+        <entry key="app/src/main/res/drawable/ic_attach_file.xml" value="0.3697916666666667" />
+        <entry key="app/src/main/res/drawable/ic_calendars.xml" value="0.3697916666666667" />
+        <entry key="app/src/main/res/drawable/ic_check_circle.xml" value="0.3697916666666667" />
         <entry key="app/src/main/res/drawable/ic_checkbox_marked_outline.xml" value="0.375" />
+        <entry key="app/src/main/res/drawable/ic_chevron_left_24.xml" value="0.3697916666666667" />
+        <entry key="app/src/main/res/drawable/ic_chevron_right_24.xml" value="0.3697916666666667" />
+        <entry key="app/src/main/res/drawable/ic_clock.xml" value="0.3697916666666667" />
+        <entry key="app/src/main/res/drawable/ic_doc.xml" value="0.3697916666666667" />
+        <entry key="app/src/main/res/drawable/ic_download_black_24dp.xml" value="0.3697916666666667" />
+        <entry key="app/src/main/res/drawable/ic_driver_green.xml" value="0.3697916666666667" />
+        <entry key="app/src/main/res/drawable/ic_driver_grey.xml" value="0.3697916666666667" />
+        <entry key="app/src/main/res/drawable/ic_drivers.xml" value="0.3697916666666667" />
+        <entry key="app/src/main/res/drawable/ic_edit.xml" value="0.3697916666666667" />
+        <entry key="app/src/main/res/drawable/ic_empty_circle.xml" value="0.3697916666666667" />
+        <entry key="app/src/main/res/drawable/ic_file.xml" value="0.3697916666666667" />
+        <entry key="app/src/main/res/drawable/ic_file_download_black_24dp.xml" value="0.3697916666666667" />
+        <entry key="app/src/main/res/drawable/ic_folder.xml" value="0.3697916666666667" />
+        <entry key="app/src/main/res/drawable/ic_forum.xml" value="0.3697916666666667" />
+        <entry key="app/src/main/res/drawable/ic_image.xml" value="0.3697916666666667" />
+        <entry key="app/src/main/res/drawable/ic_important_star.xml" value="0.3697916666666667" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.3697916666666667" />
+        <entry key="app/src/main/res/drawable/ic_link.xml" value="0.3697916666666667" />
         <entry key="app/src/main/res/drawable/ic_log_out.xml" value="0.378125" />
+        <entry key="app/src/main/res/drawable/ic_login_24.xml" value="0.3697916666666667" />
+        <entry key="app/src/main/res/drawable/ic_refresh.xml" value="0.3697916666666667" />
+        <entry key="app/src/main/res/drawable/ic_trip.xml" value="0.3697916666666667" />
         <entry key="app/src/main/res/drawable/link.xml" value="0.378125" />
         <entry key="app/src/main/res/drawable/logo_dark.xml" value="0.37916666666666665" />
         <entry key="app/src/main/res/drawable/logo_light.xml" value="0.37916666666666665" />
         <entry key="app/src/main/res/drawable/mainlogo.xml" value="0.378125" />
         <entry key="app/src/main/res/drawable/rounded_corners_btn_white_green_border.xml" value="0.215625" />
         <entry key="app/src/main/res/drawable/rounded_corners_button.xml" value="0.37916666666666665" />
+        <entry key="app/src/main/res/drawable/rounded_rectangle_blue.xml" value="0.3697916666666667" />
+        <entry key="app/src/main/res/drawable/rounded_rectangle_green.xml" value="0.3697916666666667" />
+        <entry key="app/src/main/res/drawable/rounded_view.xml" value="0.3697916666666667" />
         <entry key="app/src/main/res/drawable/safety.xml" value="0.37916666666666665" />
         <entry key="app/src/main/res/drawable/sales.xml" value="0.37916666666666665" />
         <entry key="app/src/main/res/drawable/splash_screen.xml" value="0.378125" />
@@ -106,6 +138,8 @@
         <entry key="app/src/main/res/layout/fragment_trip_documents_attachment.xml" value="0.34923076923076923" />
         <entry key="app/src/main/res/layout/fragment_trip_list.xml" value="0.3546875" />
         <entry key="app/src/main/res/layout/fragment_work_hours.xml" value="0.3516666666666667" />
+        <entry key="app/src/main/res/layout/item_document.xml" value="0.3546875" />
+        <entry key="app/src/main/res/layout/item_document_attachment.xml" value="0.9" />
         <entry key="app/src/main/res/layout/item_error.xml" value="0.35989583333333336" />
         <entry key="app/src/main/res/layout/item_forums.xml" value="0.35989583333333336" />
         <entry key="app/src/main/res/layout/item_login_logout_event.xml" value="0.35989583333333336" />
