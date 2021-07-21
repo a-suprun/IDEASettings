@@ -131,6 +131,7 @@
         <entry key="app/src/main/res/layout/dialog_select_users.xml" value="0.35989583333333336" />
         <entry key="app/src/main/res/layout/drawer_header.xml" value="0.35989583333333336" />
         <entry key="app/src/main/res/layout/fragment_chat.xml" value="0.35989583333333336" />
+        <entry key="app/src/main/res/layout/fragment_document_search.xml" value="0.3546875" />
         <entry key="app/src/main/res/layout/fragment_driver_availability.xml" value="0.35989583333333336" />
         <entry key="app/src/main/res/layout/fragment_driver_availability_edit.xml" value="0.3546875" />
         <entry key="app/src/main/res/layout/fragment_login.xml" value="0.3640625" />
