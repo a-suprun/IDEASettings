@@ -55,10 +55,12 @@
         <entry key="app/src/driver_roadlinks/res/layout/drawer_header.xml" value="0.35989583333333336" />
         <entry key="app/src/main/res/drawable-night/logo_dark.xml" value="0.37916666666666665" />
         <entry key="app/src/main/res/drawable-night/logo_light.xml" value="0.37916666666666665" />
+        <entry key="app/src/main/res/drawable/circle.xml" value="0.3537037037037037" />
         <entry key="app/src/main/res/drawable/dashed_line.xml" value="0.67" />
         <entry key="app/src/main/res/drawable/dotted.xml" value="0.375" />
         <entry key="app/src/main/res/drawable/drawer_list_selector.xml" value="0.375" />
         <entry key="app/src/main/res/drawable/drawer_selected_item.xml" value="0.18072916666666666" />
+        <entry key="app/src/main/res/drawable/edittext_bg.xml" value="0.3537037037037037" />
         <entry key="app/src/main/res/drawable/fingerprint.xml" value="0.378125" />
         <entry key="app/src/main/res/drawable/ic_archive.xml" value="0.3697916666666667" />
         <entry key="app/src/main/res/drawable/ic_archive_button.xml" value="0.3697916666666667" />
@@ -98,6 +100,7 @@
         <entry key="app/src/main/res/drawable/rounded_corners_btn_white_green_border.xml" value="0.215625" />
         <entry key="app/src/main/res/drawable/rounded_corners_button.xml" value="0.37916666666666665" />
         <entry key="app/src/main/res/drawable/rounded_corners_button_blue.xml" value="0.3697916666666667" />
+        <entry key="app/src/main/res/drawable/rounded_green.xml" value="0.3537037037037037" />
         <entry key="app/src/main/res/drawable/rounded_grey.xml" value="0.3697916666666667" />
         <entry key="app/src/main/res/drawable/rounded_message_right.xml" value="0.3697916666666667" />
         <entry key="app/src/main/res/drawable/rounded_rectangle_blue.xml" value="0.3697916666666667" />
@@ -154,6 +157,8 @@
         <entry key="app/src/main/res/layout/item_document_attachment.xml" value="0.3546875" />
         <entry key="app/src/main/res/layout/item_error.xml" value="0.35989583333333336" />
         <entry key="app/src/main/res/layout/item_forums.xml" value="0.35989583333333336" />
+        <entry key="app/src/main/res/layout/item_forums_and_sessions.xml" value="0.3546875" />
+        <entry key="app/src/main/res/layout/item_gallery.xml" value="0.3546875" />
         <entry key="app/src/main/res/layout/item_login_logout_event.xml" value="0.35989583333333336" />
         <entry key="app/src/main/res/layout/item_message_left.xml" value="0.35989583333333336" />
         <entry key="app/src/main/res/layout/item_message_right.xml" value="0.35989583333333336" />
@@ -161,6 +166,7 @@
         <entry key="app/src/main/res/layout/item_progress.xml" value="0.35989583333333336" />
         <entry key="app/src/main/res/layout/item_saved_trip_document.xml" value="0.3546875" />
         <entry key="app/src/main/res/layout/item_sessions.xml" value="0.3640625" />
+        <entry key="app/src/main/res/layout/item_thumbnail.xml" value="0.3546875" />
         <entry key="app/src/main/res/layout/item_trip.xml" value="0.3546875" />
         <entry key="app/src/main/res/layout/item_trip_document.xml" value="0.3546875" />
         <entry key="app/src/main/res/layout/item_work_hour.xml" value="0.35989583333333336" />
