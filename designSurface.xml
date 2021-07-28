@@ -153,6 +153,7 @@
         <entry key="app/src/main/res/layout/fragment_support.xml" value="0.35989583333333336" />
         <entry key="app/src/main/res/layout/fragment_trailer_location.xml" value="0.35989583333333336" />
         <entry key="app/src/main/res/layout/fragment_trip_detail.xml" value="0.3546875" />
+        <entry key="app/src/main/res/layout/fragment_trip_details.xml" value="0.3546875" />
         <entry key="app/src/main/res/layout/fragment_trip_documents.xml" value="0.35989583333333336" />
         <entry key="app/src/main/res/layout/fragment_trip_documents_attachment.xml" value="0.34923076923076923" />
         <entry key="app/src/main/res/layout/fragment_trip_documents_search.xml" value="0.3314814814814815" />
