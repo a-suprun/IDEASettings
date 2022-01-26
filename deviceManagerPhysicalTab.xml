@@ -8,7 +8,18 @@
             <value value="R58RB4YYRBK" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-01-26T15:24:21.796908200Z" />
+        <name value="samsung SM-A525F" />
+        <target value="Android 11.0" />
+        <api value="30" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="DOMAIN_NAME" />
+            <value value="adb-R58RB4YYRBK-KAAbil._adb-tls-connect._tcp" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-01-26T15:46:04.752728100Z" />
         <name value="samsung SM-A525F" />
         <target value="Android 11.0" />
         <api value="30" />
