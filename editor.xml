@@ -15,7 +15,7 @@
         <entry key="kotlin" value="true" />
       </map>
     </option>
-    <option name="USE_SOFT_WRAPS" value="" />
+    <option name="USE_SOFT_WRAPS" value="CONSOLE" />
   </component>
   <component name="InlayHintsSettings">
     <option name="lastViewedProviderKeyId" value="KotlinLambdasHintsProvider" />
