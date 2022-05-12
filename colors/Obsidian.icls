@@ -29,6 +29,7 @@
     <option name="GUTTER_BACKGROUND" value="293134" />
     <option name="INDENT_GUIDE" value="804000" />
     <option name="LINE_NUMBERS_COLOR" value="81969a" />
+    <option name="LOOKUP_COLOR" value="46484a" />
     <option name="METHOD_SEPARATORS_COLOR" value="2f393c" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
