@@ -2,8 +2,16 @@
   <component name="VisualizationTool">
     <option name="state">
       <GlobalState>
+        <option name="customConfigurationSets">
+          <map>
+            <entry key="predefinedCustom">
+              <value>
+                <CustomConfigurationSet />
+              </value>
+            </entry>
+          </map>
+        </option>
         <option name="firstTimeOpen" value="false" />
-        <option name="scale" value="0.2" />
       </GlobalState>
     </option>
   </component>
