@@ -6,7 +6,21 @@
           <map>
             <entry key="predefinedCustom">
               <value>
-                <CustomConfigurationSet />
+                <CustomConfigurationSet>
+                  <option name="customConfigAttributes">
+                    <list>
+                      <CustomConfigurationAttribute>
+                        <option name="apiLevel" value="29" />
+                        <option name="deviceId" value="_device_class_tablet" />
+                        <option name="name" value="Preview" />
+                        <option name="nightMode" value="NOTNIGHT" />
+                        <option name="orientation" value="PORTRAIT" />
+                        <option name="theme" value="Theme.MessengerTheme" />
+                        <option name="uiMode" value="NORMAL" />
+                      </CustomConfigurationAttribute>
+                    </list>
+                  </option>
+                </CustomConfigurationSet>
               </value>
             </entry>
           </map>
