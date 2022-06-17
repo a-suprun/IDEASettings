@@ -1,6 +1,7 @@
 <application>
   <component name="CodeInsightSettings">
     <option name="JAVADOC_INFO_DELAY" value="300" />
+    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
   </component>
   <component name="DefaultFont">
