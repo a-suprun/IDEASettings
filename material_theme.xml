@@ -2,6 +2,7 @@
   <component name="MaterialThemeConfig">
     <option name="allowDataCollection" value="true" />
     <option name="pristineConfig" value="false" />
+    <option name="showOverlays" value="false" />
     <option name="settingsSelectedTab" value="3" />
     <option name="tabsHeight" value="24" />
     <option name="accentColor" value="2979ff" />
