@@ -3,7 +3,7 @@
     <property name="created">2022-06-17T12:29:30</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.2.1.15</property>
-    <property name="modified">2022-06-17T18:53:04</property>
+    <property name="modified">2022-06-18T20:58:10</property>
     <property name="originalScheme">Atom One Dark (Material)</property>
   </metaInfo>
   <colors>
@@ -669,7 +669,7 @@
     <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="d19a66" />
-        <option name="EFFECT_COLOR" value="d19a66" />
+        <option name="EFFECT_COLOR" value="282c34" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
