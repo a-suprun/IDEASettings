@@ -65,6 +65,10 @@
           <option name="url" value="http://64.25.109.56:8000/hg/TrackEnsure/" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://158.106.98.30:8000/hg/CVantagePoint-native/" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/dev/IdeaProjects" />
