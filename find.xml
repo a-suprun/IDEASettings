@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'TEDriver'" />
-    <option name="defaultScopeName" value="Project 'TEDriver'" />
-    <option name="SEARCH_SCOPE" value="Project 'TEDriver'" />
+    <option name="customScope" value="Project 'KotlinFlowDemo'" />
+    <option name="defaultScopeName" value="Project 'KotlinFlowDemo'" />
+    <option name="SEARCH_SCOPE" value="Project 'KotlinFlowDemo'" />
   </component>
 </application>
