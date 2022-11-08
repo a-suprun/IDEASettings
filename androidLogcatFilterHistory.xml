@@ -4,6 +4,7 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine tag:TAG_DEV" />
+        <option value="package:mine tag:" />
         <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine tag:TAG_DEV " />
