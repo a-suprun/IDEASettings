@@ -2,8 +2,8 @@
   <component name="AndroidLogcatFilterHistory">
     <option name="favorites">
       <list>
-        <option value="package:mine tag:logoutFromApp" />
         <option value="package:mine tag:TAG_DEV " />
+        <option value="package:mine tag:logoutFromApp" />
       </list>
     </option>
     <option name="nonFavorites">
