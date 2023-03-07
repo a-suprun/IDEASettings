@@ -1,0 +1,5 @@
+<application>
+  <component name="ScreenRecorderOptions">
+    <option name="useEmulatorRecording" value="false" />
+  </component>
+</application>
