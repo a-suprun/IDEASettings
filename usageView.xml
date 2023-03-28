@@ -6,7 +6,6 @@
     <option name="IS_EXPANDED" value="true" />
   </component>
   <component name="UsageFilteringRuleState">
-    <option value="com.intellij.usages.impl.rules.UsageInGeneratedCodeFilteringRule" />
     <option value="com.intellij.usages.impl.rules.ImportUsageFilteringRule" />
   </component>
   <component name="UsageViewSettings">
