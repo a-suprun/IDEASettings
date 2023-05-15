@@ -4,6 +4,7 @@
   </component>
   <component name="ShowUsagesSettings">
     <option name="IS_EXPANDED" value="true" />
+    <option name="GROUP_BY_FILE_STRUCTURE" value="true" />
   </component>
   <component name="UsageFilteringRuleState">
     <option value="com.intellij.usages.impl.rules.ImportUsageFilteringRule" />
