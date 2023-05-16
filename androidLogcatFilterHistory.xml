@@ -8,6 +8,7 @@
     <option name="mostRecentlyUsed" value="package:mine tag:TAG_DEV " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.trackensure.ionic.driver" />
         <option value="package:mine " />
         <option value="package:mine tag:TAG_DEV" />
         <option value="package:mine" />
@@ -15,7 +16,6 @@
         <option value="package:mine tag:" />
         <option value="package:mine 1140731" />
         <option value="package:" />
-        <option value="package:com.trackensure.ionic.driver" />
         <option value="package:mine tag:logoutFromApp" />
       </list>
     </option>
