@@ -1,5 +1,5 @@
 <application>
   <component name="deviceManagerVirtualTab">
-    <option name="sortColumn" value="1" />
+    <option name="sortOrder" value="DESCENDING" />
   </component>
 </application>
