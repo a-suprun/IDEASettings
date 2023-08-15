@@ -93,6 +93,10 @@
           <option name="url" value="http://64.25.109.56:8000/hg/PathGrinder/" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://64.25.109.56:8000/hg/TrackEnsureELDAndroid/" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/dev/StudioProjects" />
