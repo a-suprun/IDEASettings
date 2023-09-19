@@ -7,8 +7,8 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="cipher_text_wrapper" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
-      <mapping ext="propetries" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="propetries" type="PLAIN_TEXT" />
       <mapping pattern="cipher_text_wrapper.proto" type="SQLite" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
