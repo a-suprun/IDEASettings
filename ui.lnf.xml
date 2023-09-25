@@ -7,7 +7,9 @@
     <option name="MAX_LOOKUP_WIDTH2" value="767" />
     <option name="OPEN_TABS_AT_THE_END" value="true" />
     <option name="OVERRIDE_CONSOLE_CYCLE_BUFFER_SIZE" value="true" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
+    <option name="SEPARATE_MAIN_MENU" value="true" />
     <option name="smoothScrolling" value="false" />
   </component>
 </application>
