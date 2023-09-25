@@ -5,8 +5,10 @@
         <option value="package:mine tag:TAG_DEV " />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:com.trackensure.drivercoin TAG_DEV" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.trackensure.drivercoin TAG_DEV" />
         <option value="package:mine " />
         <option value="package:mine message:process" />
         <option value="package:mine" />
