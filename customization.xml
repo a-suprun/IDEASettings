@@ -203,6 +203,6 @@
       <path value="Main Toolbar Right" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <action id="CleanGradleProject" icon="/home/oleksandr/Downloads/broom3.svg" />
+    <action id="CleanGradleProject" icon="/home/oleksandr/dev/android-studio/icons8-broom-50.png" />
   </component>
 </application>
