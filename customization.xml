@@ -209,6 +209,6 @@
       <option name="myInitialPosition" value="-1" />
     </group>
     <action id="LocalHistory.ShowHistory" icon="jar:file:/home/oleksandr/dev/android-studio/lib/app.jar!/expui/toolbar/unknown.svg" />
-    <action id="CleanGradleProject" icon="/home/oleksandr/dev/android-studio/icons8-broom-50.png" />
+    <action id="CleanGradleProject" icon="/home/oleksandr/Downloads/icons8-broom-50.png" />
   </component>
 </application>
