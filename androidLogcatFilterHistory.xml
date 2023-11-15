@@ -5,14 +5,14 @@
         <option value="package:mine tag:TAG_DEV " />
       </list>
     </option>
-    <option name="mostRecentlyUsed" value="package:mine tag:TAG_DEV " />
+    <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine" />
-        <option value="package:mine " />
-        <option value="package:mine tag:TAG_NETWORK" />
-        <option value="package:mine tag:" />
         <option value="package:com.trackensure.drivercoin TAG_DEV" />
+        <option value="package:mine" />
+        <option value="package:mine tag:TAG_NETWORK" />
+        <option value="package:mine " />
+        <option value="package:mine tag:" />
         <option value="package:mine message:process" />
         <option value="package:mine level:error " />
         <option value="package:mine tag:TAG_DEV" />
