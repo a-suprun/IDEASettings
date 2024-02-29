@@ -8,10 +8,10 @@
     <option name="mostRecentlyUsed" value="package:mine tag:TAG_DEV " />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine" />
-        <option value="package:mine level:error " />
-        <option value="package:mine 500" />
         <option value="package:mine " />
+        <option value="package:mine level:error " />
+        <option value="package:mine" />
+        <option value="package:mine 500" />
         <option value="package:com.trackensure.orchard" />
         <option value="package:com.trackensure.drivercoin TAG_DEV" />
         <option value="package:mine tag:TAG_NETWORK" />
