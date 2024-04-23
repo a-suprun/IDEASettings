@@ -5,8 +5,11 @@
         <option value="package:mine tag:TAG_DEV " />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine tag:tag_dev " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:tag_dev " />
+        <option value="package:mine T" />
         <option value="package:mine " />
       </list>
     </option>
