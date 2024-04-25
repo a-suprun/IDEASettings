@@ -4,7 +4,7 @@
     <property name="created">2018-12-20T13:24:20</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2018.3.2.0.0</property>
-    <property name="modified">2024-04-24T12:50:07</property>
+    <property name="modified">2024-04-25T11:46:25</property>
     <property name="originalScheme">Blink (rainglow)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -1085,7 +1085,7 @@
         <option name="FOREGROUND" value="43b5b3" />
       </value>
     </option>
-    <option name="Groovy method declaration" baseAttributes="" />
+    <option name="Groovy method declaration" baseAttributes="METHOD_DECLARATION_ATTRIBUTES" />
     <option name="HAML_TAG">
       <value>
         <option name="FOREGROUND" value="c0ccdb" />
@@ -1405,7 +1405,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="List/map to object conversion" baseAttributes="" />
+    <option name="List/map to object conversion" baseAttributes="JAVA_NUMBER" />
     <option name="MACRONAME">
       <value>
         <option name="FOREGROUND" value="908b25" />
@@ -3502,7 +3502,7 @@
         <option name="FOREGROUND" value="d4856a" />
       </value>
     </option>
-    <option name="XML_PROLOGUE" baseAttributes="" />
+    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
     <option name="XML_TAG">
       <value>
         <option name="FOREGROUND" value="a0b2c8" />
