@@ -4,7 +4,7 @@
     <property name="created">2022-06-18T21:49:39</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">2021.2.1.15</property>
-    <property name="modified">2024-04-26T16:28:57</property>
+    <property name="modified">2024-04-29T11:42:59</property>
     <property name="originalScheme">One Dark</property>
     <property name="partialSave">true</property>
   </metaInfo>
@@ -44,7 +44,6 @@
       <value>
         <option name="FOREGROUND" value="61afef" />
         <option name="EFFECT_COLOR" value="61afef" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="KOTLIN_SMART_CAST_RECEIVER">
