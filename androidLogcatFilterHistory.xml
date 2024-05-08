@@ -7,8 +7,8 @@
     </option>
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:PUSHTOKEN" />
         <option value="package:mine " />
+        <option value="package:mine tag:PUSHTOKEN" />
         <option value="package:mine" />
         <option value="package:com.trackensure.pathgrinder.android" />
         <option value="package:mine T" />
