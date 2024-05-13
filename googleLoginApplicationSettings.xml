@@ -6,8 +6,8 @@
         <entry key="alexander.suprun1@gmail.com">
           <value>
             <set>
-              <option value="Android Vitals" />
               <option value="Firebase" />
+              <option value="Android Vitals" />
             </set>
           </value>
         </entry>
