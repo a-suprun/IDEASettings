@@ -167,8 +167,8 @@
     <jdk version="2">
       <name value="jbr-17" />
       <type value="JavaSDK" />
-      <version value="JetBrains Runtime 17.0.9" />
-      <homePath value="$USER_HOME$/dev/android-studio-hedgehog/jbr" />
+      <version value="JetBrains Runtime 17.0.11" />
+      <homePath value="$APPLICATION_HOME_DIR$/jbr" />
       <roots>
         <annotationsPath>
           <root type="composite">
@@ -177,67 +177,67 @@
         </annotationsPath>
         <classPath>
           <root type="composite">
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/java.base" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/java.compiler" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/java.datatransfer" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/java.desktop" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/java.instrument" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/java.logging" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/java.management" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/java.management.rmi" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/java.naming" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/java.net.http" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/java.prefs" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/java.rmi" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/java.scripting" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/java.se" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/java.security.jgss" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/java.security.sasl" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/java.smartcardio" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/java.sql" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/java.sql.rowset" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/java.transaction.xa" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/java.xml" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/java.xml.crypto" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/jdk.accessibility" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/jdk.attach" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/jdk.charsets" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/jdk.compiler" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/jdk.crypto.cryptoki" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/jdk.crypto.ec" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/jdk.dynalink" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/jdk.hotspot.agent" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/jdk.httpserver" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/jdk.internal.ed" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/jdk.internal.jvmstat" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/jdk.internal.le" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/jdk.internal.opt" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/jdk.internal.vm.ci" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/jdk.internal.vm.compiler" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/jdk.internal.vm.compiler.management" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/jdk.jartool" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/jdk.javadoc" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/jdk.jcmd" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/jdk.jdeps" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/jdk.jdi" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/jdk.jdwp.agent" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/jdk.jfr" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/jdk.jlink" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/jdk.jsobject" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/jdk.localedata" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/jdk.management" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/jdk.management.agent" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/jdk.management.jfr" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/jdk.naming.dns" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/jdk.naming.rmi" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/jdk.net" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/jdk.sctp" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/jdk.security.auth" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/jdk.security.jgss" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/jdk.unsupported" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/jdk.unsupported.desktop" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/jdk.xml.dom" type="simple" />
-            <root url="jrt://$USER_HOME$/dev/android-studio-hedgehog/jbr!/jdk.zipfs" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.base" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.compiler" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.datatransfer" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.desktop" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.instrument" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.logging" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.management" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.management.rmi" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.naming" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.net.http" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.prefs" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.rmi" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.scripting" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.se" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.security.jgss" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.security.sasl" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.smartcardio" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.sql" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.sql.rowset" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.transaction.xa" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.xml" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.xml.crypto" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.accessibility" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.attach" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.charsets" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.compiler" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.crypto.ec" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.dynalink" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.httpserver" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.internal.ed" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.internal.le" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.internal.opt" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.jartool" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.javadoc" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.jcmd" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.jdeps" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.jdi" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.jfr" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.jlink" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.jsobject" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.localedata" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.management" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.management.agent" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.management.jfr" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.naming.dns" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.naming.rmi" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.net" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.sctp" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.security.auth" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.security.jgss" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.unsupported" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.unsupported.desktop" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.xml.dom" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.zipfs" type="simple" />
           </root>
         </classPath>
         <javadocPath>
