@@ -8,6 +8,7 @@
     <option name="mostRecentlyUsed" value="package:mine tag:TAG_DEV " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.trackensure.orchard" />
         <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine AssetsViewModel init" />
