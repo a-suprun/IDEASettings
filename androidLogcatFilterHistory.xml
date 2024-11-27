@@ -7,9 +7,9 @@
     </option>
     <option name="nonFavorites">
       <list>
+        <option value="package:mine level:error" />
         <option value="package:mine " />
         <option value="package:mine tag:TimelineSelection" />
-        <option value="package:mine level:error" />
         <option value="package:com.trackensure.orchard" />
         <option value="package:mine" />
         <option value="package:mine AssetsViewModel init" />
