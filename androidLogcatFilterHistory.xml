@@ -5,15 +5,16 @@
         <option value="package:mine tag:TAG_DEV " />
       </list>
     </option>
+    <option name="mostRecentlyUsed" value="package:mine tag:TAG_DEV " />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine" />
         <option value="package:mine " />
         <option value="package:mine level:error" />
         <option value="package:mine tag:TAG_DEV" />
         <option value="package:mine WebSockets" />
         <option value="package:mine tag:TimelineSelection" />
         <option value="package:com.trackensure.orchard" />
-        <option value="package:mine" />
         <option value="package:mine AssetsViewModel init" />
         <option value="package:mine level:error " />
         <option value="package:mine tag:PUSHTOKEN" />
