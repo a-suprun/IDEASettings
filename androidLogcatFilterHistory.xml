@@ -8,10 +8,10 @@
     <option name="mostRecentlyUsed" value="package:mine" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine " />
         <option value="package:mine level:error" />
-        <option value="package:mine tag:TAG_DEV" />
         <option value="package:mine" />
+        <option value="package:mine " />
+        <option value="package:mine tag:TAG_DEV" />
         <option value="package:mine tag:PUSHTOKEN" />
         <option value="package:mine WebSockets" />
         <option value="package:mine tag:TimelineSelection" />
