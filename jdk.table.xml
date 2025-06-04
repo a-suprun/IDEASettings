@@ -707,7 +707,7 @@
       <name value="jbr-17" />
       <type value="JavaSDK" />
       <version value="JetBrains Runtime 17.0.7" />
-      <homePath value="$USER_HOME$/.jdks/jbr-17.0.7" />
+      <homePath value="$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr" />
       <roots>
         <annotationsPath>
           <root type="composite">
@@ -716,154 +716,74 @@
         </annotationsPath>
         <classPath>
           <root type="composite">
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/java.base" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/java.compiler" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/java.datatransfer" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/java.desktop" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/java.instrument" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/java.logging" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/java.management" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/java.management.rmi" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/java.naming" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/java.net.http" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/java.prefs" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/java.rmi" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/java.scripting" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/java.se" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/java.security.jgss" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/java.security.sasl" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/java.smartcardio" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/java.sql" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/java.sql.rowset" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/java.transaction.xa" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/java.xml" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/java.xml.crypto" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.accessibility" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.attach" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.charsets" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.compiler" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.crypto.cryptoki" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.crypto.ec" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.dynalink" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.editpad" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.hotspot.agent" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.httpserver" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.incubator.foreign" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.incubator.vector" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.internal.ed" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.internal.jvmstat" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.internal.le" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.internal.opt" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.internal.vm.ci" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.internal.vm.compiler" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.internal.vm.compiler.management" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.jartool" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.javadoc" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.jcmd" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.jconsole" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.jdeps" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.jdi" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.jdwp.agent" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.jfr" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.jlink" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.jpackage" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.jshell" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.jsobject" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.jstatd" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.localedata" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.management" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.management.agent" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.management.jfr" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.naming.dns" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.naming.rmi" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.net" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.nio.mapmode" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.random" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.sctp" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.security.auth" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.security.jgss" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.unsupported" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.unsupported.desktop" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.xml.dom" type="simple" />
-            <root url="jrt://$USER_HOME$/.jdks/jbr-17.0.7!/jdk.zipfs" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/java.base" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/java.compiler" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/java.datatransfer" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/java.desktop" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/java.instrument" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/java.logging" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/java.management" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/java.management.rmi" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/java.naming" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/java.net.http" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/java.prefs" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/java.rmi" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/java.scripting" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/java.se" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/java.security.jgss" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/java.security.sasl" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/java.smartcardio" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/java.sql" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/java.sql.rowset" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/java.transaction.xa" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/java.xml" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/java.xml.crypto" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.accessibility" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.attach" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.charsets" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.compiler" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.crypto.ec" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.dynalink" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.httpserver" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.internal.ed" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.internal.le" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.internal.opt" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.jartool" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.javadoc" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.jcmd" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.jdeps" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.jdi" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.jfr" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.jlink" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.jsobject" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.localedata" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.management" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.management.agent" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.management.jfr" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.naming.dns" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.naming.rmi" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.net" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.sctp" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.security.auth" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.security.jgss" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.unsupported" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.unsupported.desktop" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.xml.dom" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.zipfs" type="simple" />
           </root>
         </classPath>
         <javadocPath>
           <root type="composite" />
         </javadocPath>
         <sourcePath>
-          <root type="composite">
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/java.se" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.jdi" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.jfr" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.net" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/java.rmi" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/java.sql" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/java.xml" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.jcmd" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.sctp" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/java.base" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.jdeps" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.jlink" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.zipfs" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/java.prefs" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.attach" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.jshell" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.jstatd" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.random" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/java.naming" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.editpad" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.jartool" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.javadoc" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.xml.dom" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/java.desktop" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/java.logging" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.charsets" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.compiler" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.dynalink" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.jconsole" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.jpackage" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.jsobject" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/java.compiler" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/java.net.http" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.crypto.ec" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/java.scripting" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.httpserver" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.jdwp.agent" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.localedata" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.management" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.naming.dns" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.naming.rmi" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/java.instrument" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/java.management" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/java.sql.rowset" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/java.xml.crypto" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.internal.ed" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.internal.le" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.nio.mapmode" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.unsupported" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/java.smartcardio" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.internal.opt" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/java.datatransfer" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.accessibility" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.hotspot.agent" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.security.auth" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.security.jgss" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/java.security.jgss" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/java.security.sasl" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.internal.vm.ci" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.management.jfr" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/java.management.rmi" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/java.transaction.xa" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.crypto.cryptoki" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.incubator.vector" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.internal.jvmstat" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.management.agent" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.incubator.foreign" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.unsupported.desktop" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.internal.vm.compiler" type="simple" />
-            <root url="jar://$USER_HOME$/.jdks/jbr-17.0.7/lib/src.zip!/jdk.internal.vm.compiler.management" type="simple" />
-          </root>
+          <root type="composite" />
         </sourcePath>
       </roots>
     </jdk>
@@ -1240,6 +1160,92 @@
             <root url="jar://$USER_HOME$/.jdks/corretto-11.0.20.1/lib/src.zip!/jdk.scripting.nashorn.shell" type="simple" />
             <root url="jar://$USER_HOME$/.jdks/corretto-11.0.20.1/lib/src.zip!/jdk.internal.vm.compiler.management" type="simple" />
           </root>
+        </sourcePath>
+      </roots>
+    </jdk>
+    <jdk version="2">
+      <name value="jbr-17 (2)" />
+      <type value="JavaSDK" />
+      <version value="JetBrains Runtime 17.0.7" />
+      <homePath value="$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/java.base" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/java.compiler" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/java.datatransfer" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/java.desktop" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/java.instrument" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/java.logging" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/java.management" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/java.management.rmi" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/java.naming" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/java.net.http" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/java.prefs" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/java.rmi" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/java.scripting" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/java.se" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/java.security.jgss" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/java.security.sasl" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/java.smartcardio" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/java.sql" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/java.sql.rowset" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/java.transaction.xa" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/java.xml" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/java.xml.crypto" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.accessibility" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.attach" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.charsets" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.compiler" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.crypto.ec" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.dynalink" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.httpserver" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.internal.ed" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.internal.le" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.internal.opt" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.jartool" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.javadoc" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.jcmd" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.jdeps" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.jdi" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.jfr" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.jlink" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.jsobject" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.localedata" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.management" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.management.agent" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.management.jfr" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.naming.dns" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.naming.rmi" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.net" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.sctp" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.security.auth" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.security.jgss" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.unsupported" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.unsupported.desktop" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.xml.dom" type="simple" />
+            <root url="jrt://$USER_HOME$/Downloads/android-studio-2023.1.1.28-linux/android-studio/jbr!/jdk.zipfs" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="https://docs.oracle.com/en/java/javase/17/docs/api/" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
         </sourcePath>
       </roots>
     </jdk>
