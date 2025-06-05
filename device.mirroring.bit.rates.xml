@@ -5,15 +5,11 @@
         <entry key="OnePlus|CPH2465|arm64-v8a|35">
           <value>
             <BitRateTracker>
-              <option name="bitRate" value="2000000" />
+              <option name="bitRate" value="200000" />
               <candidates>
                 <CandidateBitRate>
-                  <option name="bitRate" value="500000" />
-                  <option name="score" value="938" />
-                </CandidateBitRate>
-                <CandidateBitRate>
-                  <option name="bitRate" value="200000" />
-                  <option name="score" value="604" />
+                  <option name="bitRate" value="100000" />
+                  <option name="score" value="636" />
                 </CandidateBitRate>
               </candidates>
             </BitRateTracker>
