@@ -46,6 +46,9 @@
         <option name="EFFECT_COLOR" value="61afef" />
       </value>
     </option>
+    <option name="ComposableCallTextAttributes">
+      <value />
+    </option>
     <option name="KOTLIN_SMART_CAST_RECEIVER">
       <value>
         <option name="BACKGROUND" value="817e81" />
