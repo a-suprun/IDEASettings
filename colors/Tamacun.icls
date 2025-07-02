@@ -5,56 +5,56 @@
   <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <option name="EDITOR_LIGATURES" value="true" />
   <colors>
-    <option name="ADDED_LINES_COLOR" value="50c838" />
-    <option name="ANNOTATIONS_COLOR" value="ffffff" />
-    <option name="ANNOTATIONS_MERGED_COLOR" value="ffffff" />
-    <option name="CARET_COLOR" value="ffffff" />
-    <option name="CARET_ROW_COLOR" value="282a2e" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="0" />
-    <option name="DELETED_LINES_COLOR" value="d94750" />
+    <option name="ADDED_LINES_COLOR" value="50C838" />
+    <option name="ANNOTATIONS_COLOR" value="FFFFFF" />
+    <option name="ANNOTATIONS_MERGED_COLOR" value="FFFFFF" />
+    <option name="CARET_COLOR" value="FFFFFF" />
+    <option name="CARET_ROW_COLOR" value="282A2E" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="000000" />
+    <option name="DELETED_LINES_COLOR" value="D94750" />
     <option name="FILESTATUS_ADDED" value="629755" />
-    <option name="FILESTATUS_DELETED" value="6c6c6c" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6c6c6c" />
+    <option name="FILESTATUS_DELETED" value="6C6C6C" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6C6C6C" />
     <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="848504" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d5756c" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d5756c" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />
-    <option name="FILESTATUS_MERGED" value="9876aa" />
-    <option name="FILESTATUS_MODIFIED" value="6897bb" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="6897bb" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="6897bb" />
-    <option name="FILESTATUS_UNKNOWN" value="d1675a" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="D5756C" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="D5756C" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="D5756C" />
+    <option name="FILESTATUS_MERGED" value="9876AA" />
+    <option name="FILESTATUS_MODIFIED" value="6897BB" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="6897BB" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="6897BB" />
+    <option name="FILESTATUS_UNKNOWN" value="D1675A" />
     <option name="FILESTATUS_addedOutside" value="629755" />
-    <option name="FILESTATUS_changelistConflict" value="d5756c" />
-    <option name="FILESTATUS_modifiedOutside" value="6897bb" />
-    <option name="GUTTER_BACKGROUND" value="1d1f21" />
-    <option name="HTML_TAG_TREE_LEVEL0" value="b294bb" />
-    <option name="HTML_TAG_TREE_LEVEL1" value="81a2be" />
-    <option name="HTML_TAG_TREE_LEVEL2" value="8abeb7" />
-    <option name="HTML_TAG_TREE_LEVEL3" value="b5bd68" />
-    <option name="HTML_TAG_TREE_LEVEL4" value="f0c674" />
-    <option name="HTML_TAG_TREE_LEVEL5" value="de935f" />
-    <option name="INDENT_GUIDE" value="373b41" />
-    <option name="LINE_NUMBERS_COLOR" value="c5c8c6" />
-    <option name="METHOD_SEPARATORS_COLOR" value="0" />
-    <option name="MODIFIED_LINES_COLOR" value="e6dc79" />
-    <option name="NOTIFICATION_BACKGROUND" value="0" />
-    <option name="READONLY_BACKGROUND" value="0" />
-    <option name="READONLY_FRAGMENT_BACKGROUND" value="ffff00" />
-    <option name="RECURSIVE_CALL_ATTRIBUTES" value="b294bb" />
-    <option name="RIGHT_MARGIN_COLOR" value="373b41" />
-    <option name="SELECTED_INDENT_GUIDE" value="373b41" />
-    <option name="SELECTED_TEARLINE_COLOR" value="ffffff" />
-    <option name="SELECTION_BACKGROUND" value="373b41" />
-    <option name="SELECTION_FOREGROUND" value="0" />
-    <option name="TEARLINE_COLOR" value="373b41" />
-    <option name="VCS_ANNOTATIONS_COLOR_1" value="bed2b7" />
-    <option name="VCS_ANNOTATIONS_COLOR_2" value="9c9c9c" />
-    <option name="VCS_ANNOTATIONS_COLOR_3" value="9ba3b3" />
-    <option name="VCS_ANNOTATIONS_COLOR_4" value="8f8c73" />
-    <option name="VCS_ANNOTATIONS_COLOR_5" value="b4868d" />
-    <option name="WHITESPACES" value="373b41" />
-    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="97ede2" />
+    <option name="FILESTATUS_changelistConflict" value="D5756C" />
+    <option name="FILESTATUS_modifiedOutside" value="6897BB" />
+    <option name="GUTTER_BACKGROUND" value="1D1F21" />
+    <option name="HTML_TAG_TREE_LEVEL0" value="B294BB" />
+    <option name="HTML_TAG_TREE_LEVEL1" value="81A2BE" />
+    <option name="HTML_TAG_TREE_LEVEL2" value="8ABEB7" />
+    <option name="HTML_TAG_TREE_LEVEL3" value="B5BD68" />
+    <option name="HTML_TAG_TREE_LEVEL4" value="F0C674" />
+    <option name="HTML_TAG_TREE_LEVEL5" value="DE935F" />
+    <option name="INDENT_GUIDE" value="373B41" />
+    <option name="LINE_NUMBERS_COLOR" value="C5C8C6" />
+    <option name="METHOD_SEPARATORS_COLOR" value="000000" />
+    <option name="MODIFIED_LINES_COLOR" value="E6DC79" />
+    <option name="NOTIFICATION_BACKGROUND" value="000000" />
+    <option name="READONLY_BACKGROUND" value="000000" />
+    <option name="READONLY_FRAGMENT_BACKGROUND" value="FFFF00" />
+    <option name="RECURSIVE_CALL_ATTRIBUTES" value="B294BB" />
+    <option name="RIGHT_MARGIN_COLOR" value="373B41" />
+    <option name="SELECTED_INDENT_GUIDE" value="373B41" />
+    <option name="SELECTED_TEARLINE_COLOR" value="FFFFFF" />
+    <option name="SELECTION_BACKGROUND" value="373B41" />
+    <option name="SELECTION_FOREGROUND" value="000000" />
+    <option name="TEARLINE_COLOR" value="373B41" />
+    <option name="VCS_ANNOTATIONS_COLOR_1" value="BED2B7" />
+    <option name="VCS_ANNOTATIONS_COLOR_2" value="9C9C9C" />
+    <option name="VCS_ANNOTATIONS_COLOR_3" value="9BA3B3" />
+    <option name="VCS_ANNOTATIONS_COLOR_4" value="8F8C73" />
+    <option name="VCS_ANNOTATIONS_COLOR_5" value="B4868D" />
+    <option name="WHITESPACES" value="373B41" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="97EDE2" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
