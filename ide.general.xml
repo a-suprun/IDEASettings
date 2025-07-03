@@ -18,6 +18,7 @@
   <component name="StatusBar">
     <option name="widgets">
       <map>
+        <entry key="JSONSchemaSelector" value="false" />
         <entry key="git" value="true" />
         <entry key="mtStatusBar" value="false" />
       </map>
