@@ -624,8 +624,8 @@
     <jdk version="2">
       <name value="jbr-21" />
       <type value="JavaSDK" />
-      <version value="JetBrains Runtime 21.0.6" />
-      <homePath value="$APPLICATION_HOME_DIR$/jbr" />
+      <version value="JetBrains Runtime 21.0.3" />
+      <homePath value="$USER_HOME$/dev/android-studio-ladybug/jbr" />
       <roots>
         <annotationsPath>
           <root type="composite">
@@ -634,65 +634,65 @@
         </annotationsPath>
         <classPath>
           <root type="composite">
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.base" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.compiler" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.datatransfer" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.desktop" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.instrument" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.logging" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.management" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.management.rmi" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.naming" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.net.http" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.prefs" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.rmi" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.scripting" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.se" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.security.jgss" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.security.sasl" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.smartcardio" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.sql" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.sql.rowset" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.transaction.xa" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.xml" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.xml.crypto" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.accessibility" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.attach" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.charsets" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.compiler" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.crypto.cryptoki" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.crypto.ec" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.dynalink" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.hotspot.agent" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.httpserver" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.internal.ed" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.internal.jvmstat" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.internal.le" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.internal.opt" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.internal.vm.ci" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.jartool" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.javadoc" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.jcmd" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.jdeps" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.jdi" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.jdwp.agent" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.jfr" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.jlink" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.jsobject" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.localedata" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.management" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.management.agent" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.management.jfr" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.naming.dns" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.naming.rmi" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.net" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.sctp" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.security.auth" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.security.jgss" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.unsupported" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.unsupported.desktop" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.xml.dom" type="simple" />
-            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.zipfs" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/java.base" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/java.compiler" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/java.datatransfer" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/java.desktop" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/java.instrument" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/java.logging" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/java.management" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/java.management.rmi" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/java.naming" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/java.net.http" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/java.prefs" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/java.rmi" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/java.scripting" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/java.se" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/java.security.jgss" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/java.security.sasl" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/java.smartcardio" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/java.sql" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/java.sql.rowset" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/java.transaction.xa" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/java.xml" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/java.xml.crypto" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/jdk.accessibility" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/jdk.attach" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/jdk.charsets" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/jdk.compiler" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/jdk.crypto.ec" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/jdk.dynalink" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/jdk.httpserver" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/jdk.internal.ed" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/jdk.internal.le" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/jdk.internal.opt" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/jdk.jartool" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/jdk.javadoc" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/jdk.jcmd" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/jdk.jdeps" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/jdk.jdi" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/jdk.jfr" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/jdk.jlink" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/jdk.jsobject" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/jdk.localedata" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/jdk.management" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/jdk.management.agent" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/jdk.management.jfr" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/jdk.naming.dns" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/jdk.naming.rmi" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/jdk.net" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/jdk.sctp" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/jdk.security.auth" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/jdk.security.jgss" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/jdk.unsupported" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/jdk.unsupported.desktop" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/jdk.xml.dom" type="simple" />
+            <root url="jrt://$USER_HOME$/dev/android-studio-ladybug/jbr!/jdk.zipfs" type="simple" />
           </root>
         </classPath>
         <javadocPath>
