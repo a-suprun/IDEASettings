@@ -28,7 +28,6 @@
       </map>
     </option>
     <option name="USE_SOFT_WRAPS" value="CONSOLE" />
-    <option name="SHOW_STICKY_LINES" value="false" />
   </component>
   <component name="InlayHintsSettings">
     <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
