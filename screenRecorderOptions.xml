@@ -1,6 +1,6 @@
 <application>
   <component name="ScreenRecorderOptions">
-    <option name="recordingCount" value="3" />
+    <option name="recordingCount" value="5" />
     <option name="useEmulatorRecording" value="false" />
   </component>
 </application>
