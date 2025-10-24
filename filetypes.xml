@@ -16,6 +16,7 @@
       <mapping ext="mx" type="PLAIN_TEXT" />
       <mapping pattern="cipher_text_wrapper.proto" type="SQLite" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
+      <removed_mapping ext="csv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="pro" approved="true" type="DeviceSpecFile" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <mapping ext="fnc" type="DBN-PSQL" />
