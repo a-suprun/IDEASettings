@@ -13,58 +13,58 @@
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
   <colors>
-    <option name="ADDED_LINES_COLOR" value="84c4ce" />
-    <option name="ANNOTATIONS_COLOR" value="b0bec5" />
-    <option name="CARET_COLOR" value="c0ccdb" />
-    <option name="CARET_ROW_COLOR" value="2f383e" />
+    <option name="ADDED_LINES_COLOR" value="84C4CE" />
+    <option name="ANNOTATIONS_COLOR" value="B0BEC5" />
+    <option name="CARET_COLOR" value="C0CCDB" />
+    <option name="CARET_ROW_COLOR" value="2F383E" />
     <option name="CONSOLE_BACKGROUND_KEY" value="283035" />
-    <option name="DELETED_LINES_COLOR" value="f77669" />
-    <option name="DIFF_SEPARATORS_BACKGROUND" value="1c1c1c" />
+    <option name="DELETED_LINES_COLOR" value="F77669" />
+    <option name="DIFF_SEPARATORS_BACKGROUND" value="1C1C1C" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="171717" />
     <option name="DOCUMENTATION_COLOR" value="283035" />
-    <option name="FILESTATUS_ADDED" value="5298c4" />
-    <option name="FILESTATUS_COPIED" value="659d9a" />
-    <option name="FILESTATUS_DELETED" value="f77669" />
-    <option name="FILESTATUS_HIJACKED" value="43b5b3" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="f77669" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="546e7a" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="84c4ce" />
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="546e7a" />
-    <option name="FILESTATUS_MERGED" value="65738e" />
-    <option name="FILESTATUS_MODIFIED" value="5298c4" />
+    <option name="FILESTATUS_ADDED" value="5298C4" />
+    <option name="FILESTATUS_COPIED" value="659D9A" />
+    <option name="FILESTATUS_DELETED" value="F77669" />
+    <option name="FILESTATUS_HIJACKED" value="43B5B3" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="F77669" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="546E7A" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="84C4CE" />
+    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="546E7A" />
+    <option name="FILESTATUS_MERGED" value="65738E" />
+    <option name="FILESTATUS_MODIFIED" value="5298C4" />
     <option name="FILESTATUS_NOT_CHANGED" value="626669" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="5298c4" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="5298c4" />
-    <option name="FILESTATUS_OBSOLETE" value="7c7c00" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="5298C4" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="5298C4" />
+    <option name="FILESTATUS_OBSOLETE" value="7C7C00" />
     <option name="FILESTATUS_SUPPRESSED" value="616161" />
-    <option name="FILESTATUS_SWITCHED" value="8978f" />
-    <option name="FILESTATUS_UNKNOWN" value="f77669" />
-    <option name="FILESTATUS_modifiedOutside" value="5298c4" />
-    <option name="GUTTER_BACKGROUND" value="242b2f" />
-    <option name="INDENT_GUIDE" value="333d44" />
+    <option name="FILESTATUS_SWITCHED" value="08978F" />
+    <option name="FILESTATUS_UNKNOWN" value="F77669" />
+    <option name="FILESTATUS_modifiedOutside" value="5298C4" />
+    <option name="GUTTER_BACKGROUND" value="242B2F" />
+    <option name="INDENT_GUIDE" value="333D44" />
     <option name="INFORMATION_HINT" value="283035" />
     <option name="LINE_NUMBERS_COLOR" value="495761" />
-    <option name="METHOD_SEPARATORS_COLOR" value="333d44" />
-    <option name="MODIFIED_LINES_COLOR" value="ffcb6e" />
-    <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
-    <option name="MT_SUPPRESSED" value="c0ccdb" />
-    <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
+    <option name="METHOD_SEPARATORS_COLOR" value="333D44" />
+    <option name="MODIFIED_LINES_COLOR" value="FFCB6E" />
+    <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="AB7967" />
+    <option name="MT_SUPPRESSED" value="C0CCDB" />
+    <option name="NOTIFICATION_BACKGROUND" value="3D1A11" />
     <option name="NOT_CHANGED" value="616161" />
     <option name="QUESTION_HINT" value="283035" />
-    <option name="RIGHT_MARGIN_COLOR" value="313b41" />
+    <option name="RIGHT_MARGIN_COLOR" value="313B41" />
     <option name="SELECTED_INDENT_GUIDE" value="495761" />
     <option name="SELECTED_TEARLINE_COLOR" value="495761" />
-    <option name="SELECTION_BACKGROUND" value="43b5b3" />
-    <option name="SELECTION_FOREGROUND" value="ffffff" />
-    <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
-    <option name="TEARLINE_COLOR" value="313b41" />
+    <option name="SELECTION_BACKGROUND" value="43B5B3" />
+    <option name="SELECTION_FOREGROUND" value="FFFFFF" />
+    <option name="SOFT_WRAP_SIGN_COLOR" value="4F6269" />
+    <option name="TEARLINE_COLOR" value="313B41" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="283035" />
-    <option name="VCS_ANNOTATIONS_COLOR_2" value="333d44" />
+    <option name="VCS_ANNOTATIONS_COLOR_2" value="333D44" />
     <option name="VCS_ANNOTATIONS_COLOR_3" value="616161" />
-    <option name="VCS_ANNOTATIONS_COLOR_4" value="5a4036" />
-    <option name="VCS_ANNOTATIONS_COLOR_5" value="ab7967" />
-    <option name="WHITESPACES" value="313b41" />
-    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="313b41" />
+    <option name="VCS_ANNOTATIONS_COLOR_4" value="5A4036" />
+    <option name="VCS_ANNOTATIONS_COLOR_5" value="AB7967" />
+    <option name="WHITESPACES" value="313B41" />
+    <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="313B41" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
@@ -571,15 +571,15 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_KEYWORD1_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_KEYWORD1_ATTRIBUTES" baseAttributes="DEFAULT_KEYWORD" />
     <option name="CUSTOM_KEYWORD4_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="f77669" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="Class">
       <value>
         <option name="FOREGROUND" value="43b5b3" />
@@ -1085,7 +1085,7 @@
         <option name="FOREGROUND" value="43b5b3" />
       </value>
     </option>
-    <option name="Groovy method declaration" baseAttributes="" />
+    <option name="Groovy method declaration" baseAttributes="METHOD_DECLARATION_ATTRIBUTES" />
     <option name="HAML_TAG">
       <value>
         <option name="FOREGROUND" value="c0ccdb" />
@@ -1348,13 +1348,13 @@
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
       <value />
     </option>
-    <option name="KOTLIN_LABEL" baseAttributes="" />
+    <option name="KOTLIN_LABEL" baseAttributes="DEFAULT_LABEL" />
     <option name="KOTLIN_NAMED_ARGUMENT">
       <value>
         <option name="FOREGROUND" value="43b5b3" />
       </value>
     </option>
-    <option name="KOTLIN_PACKAGE_FUNCTION_CALL" baseAttributes="" />
+    <option name="KOTLIN_PACKAGE_FUNCTION_CALL" baseAttributes="DEFAULT_STATIC_METHOD" />
     <option name="KOTLIN_PROPERTY_WITH_BACKING_FIELD">
       <value />
     </option>
@@ -1367,7 +1367,7 @@
     <option name="KOTLIN_SMART_CONSTANT">
       <value />
     </option>
-    <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="" />
+    <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
     <option name="LABEL">
       <value>
         <option name="FONT_TYPE" value="2" />
@@ -1405,7 +1405,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="List/map to object conversion" baseAttributes="" />
+    <option name="List/map to object conversion" baseAttributes="JAVA_NUMBER" />
     <option name="MACRONAME">
       <value>
         <option name="FOREGROUND" value="908b25" />
