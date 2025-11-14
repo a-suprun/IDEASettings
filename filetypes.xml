@@ -2,8 +2,12 @@
   <component name="FileTypeManager" version="19">
     <ignoreFiles list="*.orig;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.mypy_cache;.pytest_cache;.ruff_cache;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
+      <mapping pattern="project_photo_-1.jpg" type="AUTO_DETECTED" />
       <mapping ext="hprof" type="AndroidProfilerMemoryCapture" />
       <mapping ext="realm" type="C++" />
+      <mapping pattern="project_photo_-1" type="Image" />
+      <mapping pattern="project_photo_-2" type="Image" />
+      <mapping pattern="project_photo_1390" type="Image" />
       <mapping pattern="MessengerModule" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
